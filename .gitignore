@@ -1,2 +1,3 @@
-# Adding config.py file.
-api_keys.py
+# Adding api_keys.py file.
+VacationPy/api_keys.py
+WeatherPy/api_keys.py
